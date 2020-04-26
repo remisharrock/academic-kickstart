@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Researcher - Associate Professor Distributed Systems
+role: Researcher & Associate Professor of Distributed Systems
 
 # Organizations/Affiliations
 organizations:
@@ -24,7 +24,7 @@ organizations:
   url: "https://www.imt.fr"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed computing, human learning at scale.
+bio: My research interests include distributed computing & human learning at scale.
 
 interests:
 - Distributed Architectures
