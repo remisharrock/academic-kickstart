@@ -28,8 +28,11 @@ bio: My research interests include distributed computing, human learning at scal
 
 interests:
 - Distributed Architectures
+- Scalable Human Learning Systems 
 - Autonomic Computing
-- Learning Analytics
+- Human Learning Analytics
+- Smart Systems and Self-* Systems
+- AI algorithms for human learning
 
 education:
   courses:
@@ -79,6 +82,9 @@ user_groups:
 - Visitors
 ---
 
-Rémi SHARROCK is a researcher and an associate professor at Telecom Paris working for the LTCI research lab.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I'm a researcher and an associate professor working for [Telecom Paris](https://www.telecom-paris.fr). My research team is called [DIVA](https://diva.telecom-paristech.fr/), we are a member of the [LTCI research lab](https://www.telecom-paris.fr/fr/recherche/laboratoires/laboratoire-traitement-et-communication-de-linformation-ltci). Let me give you some of my research questions :
+- What are the conceptual and technological limits of large scale distributed systems ?
+- How to leverage technology-mediated learning environments to enhance human learning ?
+- What is the impact of large scale learning systems in the global education ?
+- What are the best practices in learning ecosystems to acheive equity ?
+- How do you take into account the human feedback in AI algorithms / autonomic systems / smart-systems ?
