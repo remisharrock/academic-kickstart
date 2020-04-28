@@ -16,7 +16,7 @@ menu:
 ### Prérequis et documentation
 
 - utiliser le processBuilder en java\
-  **<http://docs.oracle.com/javase/7/docs/api/java/lang/ProcessBuilder.html> . **
+  <http://docs.oracle.com/javase/7/docs/api/java/lang/ProcessBuilder.html> .
 
 - lancer un exécutable (ou une commande) en ligne de commande depuis un programme écrit en java
 

@@ -28,7 +28,7 @@ public static void main (String\[\] args)
 
 Attention: si le fichier \<hash\>-\<hostname\>.txt existe déjà, il ne faut pas l'écraser mais plutôt continuer d'écrire dedans.
 
-Ce nom de fichier correspond au hash, obtenu grâce à la fonction de hashage de la classe String, explications ici <https://fr.wikipedia.org/wiki/Java_hashCode()#La_fonction_de_hachage_de_la_classe_java.lang.String> , calculé à partir de la clé; Le nom de la machine, lui, est obtenu grâce à l'instruction java suivante: java.net.InetAddress.getLocalHost().getHostName()
+Ce nom de fichier correspond au hash, obtenu grâce à la fonction de hashage de la classe String, explications ici [fonction de hachage de la classe java.lang.String](https://fr.wikipedia.org/wiki/Java_hashCode()#La_fonction_de_hachage_de_la_classe_java.lang.String) , calculé à partir de la clé; Le nom de la machine, lui, est obtenu grâce à l'instruction java suivante: java.net.InetAddress.getLocalHost().getHostName()
 
 Pour cela, votre SLAVE prend un mode de fonctionnement en argument: 1 , qui correspond au calcul du hash , puis un nom de fichier "UMx.txt" en entrée depuis le dossier maps et calcule un fichier "\<hash\>-\<hostname\>.txt " en sortie dans le dossier shuffles. Gardez le mode précédent: 0 pour la phase de map.
 
@@ -91,8 +91,6 @@ River 1
 Normalement, le fichier 67508-c127-12.txt doit être copié dans la machine numéro 2 (67508 modulo 3 = 2) **dans le dossier shufflesreceived**
 
 et le fichier 78973420-c127-12.txt doit être copié dans la machine numéro 1 (78973420 modulo 3 = 1) **dans le dossier shufflesreceived**
-
-****
 
 Comme votre SLAVE est modifié, utilisez le DEPLOY pour déployer la nouvelle version.
 
