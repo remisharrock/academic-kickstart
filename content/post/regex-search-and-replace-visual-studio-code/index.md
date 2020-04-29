@@ -67,6 +67,6 @@ The `(x*?)`  - here `x` is the expression just above - asks to capture a group u
 
  The `\{.*\}` means curly braces with something inside - Here I could also use  `[\s\S\r]` instead of  `.*` 
 
-Anyway, I then replace with `$1` and here is the result:
+Anyway, I then replace with `$1` and here is the result, enjoy !
 
 ![](./giftest.gif)
