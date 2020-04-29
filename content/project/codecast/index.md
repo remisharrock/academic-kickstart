@@ -3,7 +3,7 @@
 
 title: "Codecast"
 subtitle: "Teaching code made easy"
-summary: "Codecast is a powerfull and inovative tool for teaching and learning how to code." 
+summary: "Codecast is a powerfull and inovative tool for teaching and learning how to code" 
 authors: []
 tags: []
 categories: []
