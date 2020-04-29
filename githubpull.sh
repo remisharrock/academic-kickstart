@@ -4,7 +4,7 @@ source ~/.zshrc
 
 printf "Pulling the latest version..."
 
-cd ~/academic
+cd ~/academicRemi
 
 git pull
 
