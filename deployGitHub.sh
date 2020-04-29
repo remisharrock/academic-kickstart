@@ -29,4 +29,16 @@ printf "pushing changes to github..."
 
 git push origin master
 
+cd ~/academicRemi
 
+git add .
+
+# Commit changes.
+msg="new public built $(date)"
+if [ -n "$*" ]; then
+	msg="$*"
+fi
+printf "commiting changes..."
+git commit -m "$msg"
+
+git push origin dev
