@@ -28,3 +28,5 @@ git commit -m "$msg"
 printf "pushing changes to github..."
 
 git push origin master
+
+
