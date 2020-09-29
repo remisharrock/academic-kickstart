@@ -15,13 +15,19 @@ menu:
 
 ### Prérequis et documentation
 
+Si vous voulez faire une version Java:
+
 - programmer en Java\
     <https://perso.telecom-paristech.fr/bellot/CoursJava/>
 - manipuler l'environnement de développement Eclipse\
     <https://perso.telecom-paristech.fr/bellot/CoursJava/tps/>
-
 - lire et écrire dans un fichier en java\
     <https://perso.telecom-paristech.fr/bellot/CoursJava/JavaIO.html>
+
+Si vous voulez faire une version Python:
+
+* programmer en Python\
+  https://github.com/fran6w/MDI721
 
 ### Premier comptage en séquentiel pur
 
